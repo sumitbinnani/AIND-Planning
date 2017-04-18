@@ -1,6 +1,8 @@
 
 # Implement a Planning Search
 
+# [My Heuristic Analysis Report can be found here](./heuristic_analysis.pdf).
+
 ## Synopsis
 
 This project includes skeletons for the classes and functions needed to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. 
